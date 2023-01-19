@@ -1,1 +1,1 @@
-# JavaScript básico 
+# JavaScript básico y manejo de dom
